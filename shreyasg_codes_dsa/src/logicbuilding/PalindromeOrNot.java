@@ -1,4 +1,4 @@
-package Mathematics;
+package logicbuilding;
 
 public class PalindromeOrNot {
 

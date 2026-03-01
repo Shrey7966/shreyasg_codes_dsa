@@ -1,4 +1,4 @@
-package Mathematics;
+package logicbuilding;
 
 public class FactorialOfANumber {
 
@@ -22,7 +22,6 @@ public class FactorialOfANumber {
 	private static int calculateFactorialOfANumber(int i) {
 		int fact = 1;
 		while (i > 0) {
-
 			fact *= i;
 			i--;
 		}
