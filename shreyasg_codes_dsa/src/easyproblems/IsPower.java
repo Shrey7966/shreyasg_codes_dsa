@@ -7,7 +7,6 @@ public class IsPower {
     }
 
     private static boolean isPower(int number, int base) {
-
         if (number <= 0 || base <= 1) return false;
 
         while (number % base == 0) {
