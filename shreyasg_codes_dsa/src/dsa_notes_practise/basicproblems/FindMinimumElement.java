@@ -1,4 +1,4 @@
-package dsa_notes_practise.problems;
+package dsa_notes_practise.basicproblems;
 
 public class FindMinimumElement {
 
