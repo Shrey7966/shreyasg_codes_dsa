@@ -1,6 +1,7 @@
 package dsa_notes_practise.rearrangementProblems;
 
 import java.util.Arrays;
+//This problem is based on rearrangement problem
 
 public class RotateArrayLeftByKPositions {
 
