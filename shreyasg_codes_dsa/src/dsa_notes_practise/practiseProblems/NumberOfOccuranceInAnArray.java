@@ -1,4 +1,4 @@
-package easyproblems;
+package dsa_notes_practise.practiseProblems;
 
 public class NumberOfOccuranceInAnArray {
 
